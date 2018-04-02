@@ -20,7 +20,7 @@ s.social_media_url   = "https://www.jianshu.com/u/7f3c4198e1bd"
 #项目的地址
 s.source       = { :git => "https://github.com/hanwanjie853710069/HJGestureView.git", :tag => s.version }
 #需要包含的源文件
-s.source_files  = "HJGestureView/HJGestureView/HJHandGestureView/*.{h,m}"
+s.source_files  = "HJHandGestureView/*.{h,m}"
 #是否支持ARC
 s.requires_arc = true
 
