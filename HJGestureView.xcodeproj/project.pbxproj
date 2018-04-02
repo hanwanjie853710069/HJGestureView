@@ -15,10 +15,10 @@
 		A9F6F1C520725604003B7D96 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1C420725604003B7D96 /* main.m */; };
 		A9F6F1CF20725604003B7D96 /* HJGestureViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1CE20725604003B7D96 /* HJGestureViewTests.m */; };
 		A9F6F1DA20725604003B7D96 /* HJGestureViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1D920725604003B7D96 /* HJGestureViewUITests.m */; };
-		A9F6F1F120725612003B7D96 /* GCDDelay.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1E820725611003B7D96 /* GCDDelay.m */; };
-		A9F6F1F220725612003B7D96 /* MYZGestureView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1EB20725611003B7D96 /* MYZGestureView.m */; };
-		A9F6F1F320725612003B7D96 /* MYZCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1EE20725611003B7D96 /* MYZCircleView.m */; };
-		A9F6F1F420725612003B7D96 /* MYZGestureShapeView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1EF20725611003B7D96 /* MYZGestureShapeView.m */; };
+		A9F6F20020725B91003B7D96 /* GCDDelay.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1F720725B91003B7D96 /* GCDDelay.m */; };
+		A9F6F20120725B91003B7D96 /* MYZGestureView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1FA20725B91003B7D96 /* MYZGestureView.m */; };
+		A9F6F20220725B91003B7D96 /* MYZCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1FD20725B91003B7D96 /* MYZCircleView.m */; };
+		A9F6F20320725B91003B7D96 /* MYZGestureShapeView.m in Sources */ = {isa = PBXBuildFile; fileRef = A9F6F1FE20725B91003B7D96 /* MYZGestureShapeView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,16 +55,16 @@
 		A9F6F1D520725604003B7D96 /* HJGestureViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HJGestureViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9F6F1D920725604003B7D96 /* HJGestureViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HJGestureViewUITests.m; sourceTree = "<group>"; };
 		A9F6F1DB20725604003B7D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A9F6F1E820725611003B7D96 /* GCDDelay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GCDDelay.m; sourceTree = "<group>"; };
-		A9F6F1E920725611003B7D96 /* MYZGestureShapeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZGestureShapeView.h; sourceTree = "<group>"; };
-		A9F6F1EA20725611003B7D96 /* MYZCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZCircleView.h; sourceTree = "<group>"; };
-		A9F6F1EB20725611003B7D96 /* MYZGestureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZGestureView.m; sourceTree = "<group>"; };
-		A9F6F1EC20725611003B7D96 /* SCHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCHeader.h; sourceTree = "<group>"; };
-		A9F6F1ED20725611003B7D96 /* GCDDelay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCDDelay.h; sourceTree = "<group>"; };
-		A9F6F1EE20725611003B7D96 /* MYZCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZCircleView.m; sourceTree = "<group>"; };
-		A9F6F1EF20725611003B7D96 /* MYZGestureShapeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZGestureShapeView.m; sourceTree = "<group>"; };
-		A9F6F1F020725611003B7D96 /* MYZGestureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZGestureView.h; sourceTree = "<group>"; };
 		A9F6F1F52072561A003B7D96 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		A9F6F1F720725B91003B7D96 /* GCDDelay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GCDDelay.m; sourceTree = "<group>"; };
+		A9F6F1F820725B91003B7D96 /* MYZGestureShapeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZGestureShapeView.h; sourceTree = "<group>"; };
+		A9F6F1F920725B91003B7D96 /* MYZCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZCircleView.h; sourceTree = "<group>"; };
+		A9F6F1FA20725B91003B7D96 /* MYZGestureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZGestureView.m; sourceTree = "<group>"; };
+		A9F6F1FB20725B91003B7D96 /* SCHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCHeader.h; sourceTree = "<group>"; };
+		A9F6F1FC20725B91003B7D96 /* GCDDelay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCDDelay.h; sourceTree = "<group>"; };
+		A9F6F1FD20725B91003B7D96 /* MYZCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZCircleView.m; sourceTree = "<group>"; };
+		A9F6F1FE20725B91003B7D96 /* MYZGestureShapeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYZGestureShapeView.m; sourceTree = "<group>"; };
+		A9F6F1FF20725B91003B7D96 /* MYZGestureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYZGestureView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +120,7 @@
 				A9F6F1B820725604003B7D96 /* ViewController.h */,
 				A9F6F1B920725604003B7D96 /* ViewController.m */,
 				A9F6F1F52072561A003B7D96 /* PrefixHeader.pch */,
-				A9F6F1E720725611003B7D96 /* GestureView */,
+				A9F6F1F620725B91003B7D96 /* GestureView */,
 				A9F6F1BB20725604003B7D96 /* Main.storyboard */,
 				A9F6F1BE20725604003B7D96 /* Assets.xcassets */,
 				A9F6F1C020725604003B7D96 /* LaunchScreen.storyboard */,
@@ -148,21 +148,20 @@
 			path = HJGestureViewUITests;
 			sourceTree = "<group>";
 		};
-		A9F6F1E720725611003B7D96 /* GestureView */ = {
+		A9F6F1F620725B91003B7D96 /* GestureView */ = {
 			isa = PBXGroup;
 			children = (
-				A9F6F1E820725611003B7D96 /* GCDDelay.m */,
-				A9F6F1E920725611003B7D96 /* MYZGestureShapeView.h */,
-				A9F6F1EA20725611003B7D96 /* MYZCircleView.h */,
-				A9F6F1EB20725611003B7D96 /* MYZGestureView.m */,
-				A9F6F1EC20725611003B7D96 /* SCHeader.h */,
-				A9F6F1ED20725611003B7D96 /* GCDDelay.h */,
-				A9F6F1EE20725611003B7D96 /* MYZCircleView.m */,
-				A9F6F1EF20725611003B7D96 /* MYZGestureShapeView.m */,
-				A9F6F1F020725611003B7D96 /* MYZGestureView.h */,
+				A9F6F1F720725B91003B7D96 /* GCDDelay.m */,
+				A9F6F1F820725B91003B7D96 /* MYZGestureShapeView.h */,
+				A9F6F1F920725B91003B7D96 /* MYZCircleView.h */,
+				A9F6F1FA20725B91003B7D96 /* MYZGestureView.m */,
+				A9F6F1FB20725B91003B7D96 /* SCHeader.h */,
+				A9F6F1FC20725B91003B7D96 /* GCDDelay.h */,
+				A9F6F1FD20725B91003B7D96 /* MYZCircleView.m */,
+				A9F6F1FE20725B91003B7D96 /* MYZGestureShapeView.m */,
+				A9F6F1FF20725B91003B7D96 /* MYZGestureView.h */,
 			);
-			name = GestureView;
-			path = ../../../Documents/Demo/GestureView/GestureView/GestureView;
+			path = GestureView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,11 +299,11 @@
 			files = (
 				A9F6F1BA20725604003B7D96 /* ViewController.m in Sources */,
 				A9F6F1C520725604003B7D96 /* main.m in Sources */,
-				A9F6F1F420725612003B7D96 /* MYZGestureShapeView.m in Sources */,
-				A9F6F1F120725612003B7D96 /* GCDDelay.m in Sources */,
+				A9F6F20320725B91003B7D96 /* MYZGestureShapeView.m in Sources */,
+				A9F6F20020725B91003B7D96 /* GCDDelay.m in Sources */,
 				A9F6F1B720725604003B7D96 /* AppDelegate.m in Sources */,
-				A9F6F1F220725612003B7D96 /* MYZGestureView.m in Sources */,
-				A9F6F1F320725612003B7D96 /* MYZCircleView.m in Sources */,
+				A9F6F20120725B91003B7D96 /* MYZGestureView.m in Sources */,
+				A9F6F20220725B91003B7D96 /* MYZCircleView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
