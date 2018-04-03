@@ -8,6 +8,7 @@
 //  手势的缩略图
 
 #import "MYZGestureShapeView.h"
+#import "SCHeader.h"
 
 @interface MYZGestureShapeView ()
 
